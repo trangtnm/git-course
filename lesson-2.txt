@@ -1,0 +1,4 @@
+- git init: khoi tao 1 git repo
+- git add <file_name>: add <file_name> den vung staged
+- git add .: add tat ca cac files changed vao vung staged
+- git commit -m "message": commit staged files cung voi commit message
