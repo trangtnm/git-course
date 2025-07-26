@@ -1,0 +1,4 @@
+git commit --amend la de thay doi commit message phai thong qua interactive mode
+git commit --amend -m "<message>" la de thay doi commit message truc tiep tu terminal, ko phai qua interactive mode
+git restore --staged <file> la dua file tu vung staging ve working directory
+git reset HEAD~1 la dua file tu vung repository ve working directory (undo 1 commit)
