@@ -1,0 +1,24 @@
+Cấu trúc DOM cơ bản thường bao gồm các thẻ sau:
+
+- <!DOCTYPE html>
+- <html>
+  └── <head> — chứa các siêu dữ liệu như <title>, <meta>, <link>, <script>, v.v.
+  └── <body>
+       ├── <header>
+       ├── <nav>
+       ├── <main>
+       ├── <section>, <article>, <div>
+       ├── <footer>
+       └── Các thẻ khác như <h1>–<h6>, <p>, <img>, <a>, <ul>/<ol>, <table>, <form>, v.v.
+
+
+Một bảng HTML cơ bản gồm các thành phần:
+
+<table>
+  ├── <thead> — thường chứa hàng tiêu đề
+  │     └── <tr> — một hàng
+  │         └── <th> — ô tiêu đề (table header)
+  ├── <tbody> — phần thân bảng, chứa dữ liệu chính
+  │     └── <tr> — các hàng dữ liệu
+  │         └── <td> — ô dữ liệu
+  └── <tfoot> — thường dùng cho tổng kết
